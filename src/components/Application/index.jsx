@@ -40,7 +40,7 @@ export function Application() {
 
       <ContainerApp>
         <HeaderApp>
-          <h1>Ricky and Morty</h1>
+          <h1>Rick and Morty</h1>
           <span>N* de personagens: {qtdCharacters}</span>
         </HeaderApp>
         <ContentCharacteres>
